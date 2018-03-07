@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="8" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="97476" started-at="2018-03-07T06:39:04Z" finished-at="2018-03-07T06:40:42Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="97476" started-at="2018-03-07T06:39:04Z" finished-at="2018-03-07T06:40:42Z">
+      <class name="alldrivers.basicDrivers">
+        <test-method status="PASS" signature="launchInChrome()[pri:0, instance:alldrivers.basicDrivers@42d80b78]" name="launchInChrome" duration-ms="11127" started-at="2018-03-07T06:39:04Z" finished-at="2018-03-07T06:39:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchInChrome -->
+        <test-method status="PASS" signature="launchInEdge()[pri:0, instance:alldrivers.basicDrivers@42d80b78]" name="launchInEdge" duration-ms="6815" started-at="2018-03-07T06:39:15Z" finished-at="2018-03-07T06:39:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchInEdge -->
+        <test-method status="PASS" signature="launchInFirefox()[pri:0, instance:alldrivers.basicDrivers@42d80b78]" name="launchInFirefox" duration-ms="20930" started-at="2018-03-07T06:39:22Z" finished-at="2018-03-07T06:39:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchInFirefox -->
+        <test-method status="PASS" signature="launchInIE()[pri:0, instance:alldrivers.basicDrivers@42d80b78]" name="launchInIE" duration-ms="15645" started-at="2018-03-07T06:39:43Z" finished-at="2018-03-07T06:39:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchInIE -->
+      </class> <!-- alldrivers.basicDrivers -->
+      <class name="SeleniumProj.AppTest">
+        <test-method status="PASS" signature="launchInChromeTest()[pri:0, instance:SeleniumProj.AppTest@5e3a8624]" name="launchInChromeTest" duration-ms="9801" started-at="2018-03-07T06:39:59Z" finished-at="2018-03-07T06:40:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchInChromeTest -->
+        <test-method status="PASS" signature="launchInEdgeTest()[pri:0, instance:SeleniumProj.AppTest@5e3a8624]" name="launchInEdgeTest" duration-ms="5816" started-at="2018-03-07T06:40:09Z" finished-at="2018-03-07T06:40:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchInEdgeTest -->
+        <test-method status="PASS" signature="launchInFirefoxTest()[pri:0, instance:SeleniumProj.AppTest@5e3a8624]" name="launchInFirefoxTest" duration-ms="21134" started-at="2018-03-07T06:40:14Z" finished-at="2018-03-07T06:40:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchInFirefoxTest -->
+        <test-method status="PASS" signature="launchInIETest()[pri:0, instance:SeleniumProj.AppTest@5e3a8624]" name="launchInIETest" duration-ms="6129" started-at="2018-03-07T06:40:36Z" finished-at="2018-03-07T06:40:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchInIETest -->
+      </class> <!-- SeleniumProj.AppTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
